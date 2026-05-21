@@ -1,0 +1,17 @@
+product_name,category,sale_date,quantity,unit_price
+Paneer Tikka Tacos,Fusion,2026-05-10,15,180.0
+Masala Chai Latte,Beverage,2026-05-10,40,120.0
+Za'atar Grilled Chicken,Indo-Arabic,2026-05-10,10,250.0
+Baklava Cheesecake,Indo-Arabic,2026-05-10,5,210.0
+Paneer Tikka Tacos,Fusion,2026-05-11,22,180.0
+Masala Chai Latte,Beverage,2026-05-11,42,120.0
+Za'atar Grilled Chicken,Indo-Arabic,2026-05-11,18,250.0
+Baklava Cheesecake,Indo-Arabic,2026-05-11,8,210.0
+Paneer Tikka Tacos,Fusion,2026-05-12,30,180.0
+Masala Chai Latte,Beverage,2026-05-12,38,120.0
+Za'atar Grilled Chicken,Indo-Arabic,2026-05-12,28,250.0
+Baklava Cheesecake,Indo-Arabic,2026-05-12,15,210.0
+Paneer Tikka Tacos,Fusion,2026-05-13,45,180.0
+Masala Chai Latte,Beverage,2026-05-13,41,120.0
+Za'atar Grilled Chicken,Indo-Arabic,2026-05-13,42,250.0
+Baklava Cheesecake,Indo-Arabic,2026-05-13,22,210.0
