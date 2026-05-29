@@ -1,5 +1,4 @@
-# Creating a beautifully descriptive, copy-pasteable README.md for the Phase 3 implementation.
-readme_content = """# Forecastly — Demand Intelligence Command Center (Phase 3)
+# Forecastly — Demand Intelligence Command Center (Phase 3)
 
 Forecastly is an enterprise-grade, real-time demand forecasting and predictive analytics platform built with a high-performance **FastAPI operational core** and a visually striking **React glassmorphic frontend interface**.
 
