@@ -1,0 +1,81 @@
+product_name,category,sale_date,quantity,unit_price,region
+Belgian Chocolate,Classic Cream,2026-05-01,120,150.0,Gurgaon
+Alfonso Mango,Sorbet,2026-05-01,95,180.0,Vizag
+Madagascar Vanilla,Classic Cream,2026-05-01,140,140.0,Chennai
+Almond Praline,Gelato,2026-05-01,85,210.0,Vizag
+Matcha Green Tea,Exotic Craft,2026-05-02,45,250.0,Vizag
+Belgian Chocolate,Classic Cream,2026-05-02,110,150.0,Hyderabad
+Alfonso Mango,Sorbet,2026-05-02,88,180.0,Chennai
+Sea Salt Caramel,Gelato,2026-05-02,75,210.0,Chennai
+Madagascar Vanilla,Classic Cream,2026-05-03,130,140.0,Chennai
+Almond Praline,Gelato,2026-05-03,90,210.0,Vizag
+Matcha Green Tea,Exotic Craft,2026-05-03,50,250.0,Gurgaon
+Almond Praline,Gelato,2026-05-04,1250,210.0,Chennai
+Belgian Chocolate,Classic Cream,2026-05-04,115,150.0,Trichy
+Sea Salt Caramel,Gelato,2026-05-04,80,210.0,Vizag
+Madagascar Vanilla,Classic Cream,2026-05-05,135,140.0,Hyderabad
+Alfonso Mango,Sorbet,2026-05-05,5,1800.0,Gurgaon
+Matcha Green Tea,Exotic Craft,2026-05-05,42,250.0,Trichy
+Sea Salt Caramel,Gelato,2026-05-05,88,210.0,Trichy
+Belgian Chocolate,Classic Cream,2026-05-06,125,150.0,Hyderabad
+Alfonso Mango,Sorbet,2026-05-06,92,180.0,Gurgaon
+Madagascar Vanilla,Classic Cream,2026-05-06,150,140.0,Vizag
+Almond Praline,Gelato,2026-05-06,80,210.0,Bengaluru
+Matcha Green Tea,Exotic Craft,2026-05-07,48,250.0,Gurgaon
+Belgian Chocolate,Classic Cream,2026-05-07,118,150.0,Hyderabad
+Alfonso Mango,Sorbet,2026-05-07,0,180.0,Trichy
+Sea Salt Caramel,Gelato,2026-05-07,79,210.0,Vizag
+Madagascar Vanilla,Classic Cream,2026-05-08,142,140.0,Gurgaon
+Almond Praline,Gelato,2026-05-08,95,210.0,Bengaluru
+Matcha Green Tea,Exotic Craft,2026-05-08,52,250.0,Bengaluru
+Belgian Chocolate,Classic Cream,2026-05-08,130,150.0,Chennai
+Sea Salt Caramel,Gelato,2026-05-09,85,210.0,Chennai
+Madagascar Vanilla,Classic Cream,2026-05-09,138,140.0,Hyderabad
+Alfonso Mango,Sorbet,2026-05-09,90,180.0,Gurgaon
+Matcha Green Tea,Exotic Craft,2026-05-09,1,250.0,Gurgaon
+Sicilian Pistachio,Gelato,2026-05-10,70,230.0,Trichy
+Wild Berry,Sorbet,2026-05-10,65,170.0,Trichy
+Belgian Chocolate,Classic Cream,2026-05-10,122,150.0,Trichy
+Alfonso Mango,Sorbet,2026-05-10,94,180.0,Chennai
+Madagascar Vanilla,Classic Cream,2026-05-11,145,140.0,Gurgaon
+Almond Praline,Gelato,2026-05-11,87,210.0,Gurgaon
+Matcha Green Tea,Exotic Craft,2026-05-11,46,250.0,Bengaluru
+Sicilian Pistachio,Gelato,2026-05-11,72,230.0,Chennai
+Wild Berry,Sorbet,2026-05-11,68,170.0,Vizag
+Belgian Chocolate,Classic Cream,2026-05-12,112,150.0,Chennai
+Alfonso Mango,Sorbet,2026-05-12,86,180.0,Vizag
+Sea Salt Caramel,Gelato,2026-05-12,74,210.0,Bengaluru
+Madagascar Vanilla,Classic Cream,2026-05-12,131,140.0,Hyderabad
+Almond Praline,Gelato,2026-05-12,93,210.0,Gurgaon
+Matcha Green Tea,Exotic Craft,2026-05-13,51,250.0,Bengaluru
+Sicilian Pistachio,Gelato,2026-05-13,78,230.0,Gurgaon
+Wild Berry,Sorbet,2026-05-13,2200,170.0,Trichy
+Belgian Chocolate,Classic Cream,2026-05-13,124,150.0,Hyderabad
+Alfonso Mango,Sorbet,2026-05-14,91,180.0,Hyderabad
+Madagascar Vanilla,Classic Cream,2026-05-14,148,140.0,Bengaluru
+Almond Praline,Gelato,2026-05-14,82,210.0,Hyderabad
+Matcha Green Tea,Exotic Craft,2026-05-14,49,250.0,Vizag
+Sicilian Pistachio,Gelato,2026-05-14,71,230.0,Hyderabad
+Wild Berry,Sorbet,2026-05-14,63,170.0,Gurgaon
+Belgian Chocolate,Classic Cream,2026-05-15,116,150.0,Gurgaon
+Alfonso Mango,Sorbet,2026-05-15,89,180.0,Gurgaon
+Sea Salt Caramel,Gelato,2026-05-15,3,210.0,Gurgaon
+Madagascar Vanilla,Classic Cream,2026-05-15,134,140.0,Vizag
+Almond Praline,Gelato,2026-05-15,91,210.0,Chennai
+Matcha Green Tea,Exotic Craft,2026-05-15,53,250.0,Trichy
+Sicilian Pistachio,Gelato,2026-05-15,76,230.0,Bengaluru
+Wild Berry,Sorbet,2026-05-15,66,170.0,Gurgaon
+Madagascar Vanilla,Classic Cream,2026-05-16,139,140.0,Hyderabad
+Almond Praline,Gelato,2026-05-16,88,210.0,Gurgaon
+Matcha Green Tea,Exotic Craft,2026-05-16,47,250.0,Hyderabad
+Sicilian Pistachio,Gelato,2026-05-16,15,2300.0,Trichy
+Wild Berry,Sorbet,2026-05-16,69,170.0,Trichy
+Belgian Chocolate,Classic Cream,2026-05-17,121,150.0,Trichy
+Alfonso Mango,Sorbet,2026-05-17,93,180.0,Hyderabad
+Sea Salt Caramel,Gelato,2026-05-17,77,210.0,Gurgaon
+Madagascar Vanilla,Classic Cream,2026-05-17,143,140.0,Trichy
+Almond Praline,Gelato,2026-05-17,96,210.0,Vizag
+Matcha Green Tea,Exotic Craft,2026-05-17,54,250.0,Hyderabad
+Sicilian Pistachio,Gelato,2026-05-17,81,230.0,Hyderabad
+Wild Berry,Sorbet,2026-05-17,62,170.0,Gurgaon
+Belgian Chocolate,Classic Cream,2026-05-18,128,150.0,Hyderabad

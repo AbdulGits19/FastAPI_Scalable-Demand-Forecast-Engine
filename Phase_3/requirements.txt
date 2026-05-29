@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+mysql-connector-python
+python-multipart
+pandas
+scikit-learn
+passlib[bcrypt]
+python-dotenv
+python-jose[cryptography]
+xlsxwriter
+reportlab
+xgboost
+prophet
+pydantic
+httpx
